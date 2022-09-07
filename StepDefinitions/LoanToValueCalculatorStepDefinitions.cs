@@ -9,7 +9,7 @@ namespace LoanCalculator.StepDefinitions
         [Given(@"I navigate to ""([^""]*)""")]
         public void GivenINavigateTo(string p0)
         {
-            
+            throw new Exception();
         }
 
         [Given(@"I enter I need to borrow test field")]
