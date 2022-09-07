@@ -15,25 +15,25 @@ namespace LoanCalculator.StepDefinitions
         [Given(@"I enter I need to borrow test field")]
         public void GivenIEnterINeedToBorrowTestField()
         {
-            
+            throw new Exception();
         }
 
         [Given(@"I enter Property value")]
         public void GivenIEnterPropertyValue()
         {
-            
+            throw new Exception();
         }
 
         [When(@"I click on calculate")]
         public void WhenIClickOnCalculate()
         {
-            
+            throw new Exception();
         }
 
         [Then(@"Your loan to value displays correct value")]
         public void ThenYourLoanToValueDisplaysCorrectValue()
         {
-            
+            throw new Exception();
         }
     }
 }
