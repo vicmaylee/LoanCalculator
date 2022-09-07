@@ -1,0 +1,6 @@
+{
+  "env": {
+    "url": "http://demoqa.com",
+    "url2": "http://demoqa.com/{0}"
+  }
+}
